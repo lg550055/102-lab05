@@ -1,0 +1,59 @@
+#logo {
+  height: 60px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+}
+
+#monkey {
+  height: 350px;
+}
+
+#img2 {
+  height: 250px;
+  margin-top: 5%;
+}
+
+body {
+  background-color: #10E6C5;
+  font-family: helvetica;
+}
+
+section {
+  margin-top: 1em;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 0px;
+  padding: 0px;
+}
+
+p {
+  margin-top: 0%;
+  margin-left: 10%;
+  margin-right: 10%;
+  padding: 0.7em;
+  color: lightgray;
+  background-color: #129985;
+}
+
+li {
+  display: inline;
+  margin-right: 0.3em;
+  padding-left: 0.7em;
+  padding-right: 0.7em;
+  padding-top: 0.3em;
+  padding-bottom: 0.3em;
+  color: #129985;
+  background-color: lightgray;
+  border-radius: 5px;
+}
+
+
+#top {
+  float: right;
+}
+
+footer {
+  text-align: center;
+}
