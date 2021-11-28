@@ -4,12 +4,16 @@
   margin-bottom: 0px;
 }
 
+img {
+  border-radius: 5px;
+}
+
 #monkey {
   height: 350px;
 }
 
 #img2 {
-  height: 250px;
+  height: 220px;
   margin-top: 5%;
 }
 
@@ -24,6 +28,7 @@ section {
 }
 
 h2 {
+  color: darkslategrey;
   margin-bottom: 0px;
   padding: 0px;
 }
@@ -35,6 +40,7 @@ p {
   padding: 0.7em;
   color: lightgray;
   background-color: #129985;
+  border-radius: 5px;
 }
 
 li {
