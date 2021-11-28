@@ -2,28 +2,27 @@
 <html>
   <head>
     <link rel="stylesheet" href="styles.css">
-    <title>CSS basics</title>
+    <script src="scripts.js"></script>
+    <title>Basic html, css and js</title>
   </head>
   <body>
     <header>
       <img src="ghlogo.png" id="logo">
       <nav id="top">
         <ul>
-          <li>Page 1</li>
-          <li>Page 2</li>
-          <li>Page 3</li>
+          <li onclick="setColor()">Color?</li>
+          <li onclick="restore()">Original</li>
         </ul>
       </nav>
     </header>
     <section>
       <img src="monkey.jpg" id="monkey">
-      <h2><script src="script1.js"></script></h2>
-      <script src="script2.js"></script>
+      <h2><script>name();</script></h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
     </section>
     <hr>
     <section>
-      <img src="monkey.jpg" id="img2">
+      <img src="ghlogo.png" id="img2">
       <h2>Lower section header</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
     </section>
@@ -37,5 +36,6 @@
         </ul>
       </nav>
     </footer>
+    <script>azure();</script>
   </body>
 </html>

@@ -13,8 +13,8 @@ img {
 }
 
 #img2 {
-  height: 220px;
-  margin-top: 5%;
+  height: 200px;
+  margin-top: 2%;
 }
 
 body {
@@ -28,9 +28,10 @@ section {
 }
 
 h2 {
-  color: darkslategrey;
-  margin-bottom: 0px;
-  padding: 0px;
+  color: #129985;
+  background-color: lightgray;
+  margin: 0% 10% 0%;
+  padding-top: 0.5em;
 }
 
 p {
@@ -38,8 +39,8 @@ p {
   margin-left: 10%;
   margin-right: 10%;
   padding: 0.7em;
-  color: lightgray;
-  background-color: #129985;
+  color: #129985;
+  background-color: lightgray;
   border-radius: 5px;
 }
 
