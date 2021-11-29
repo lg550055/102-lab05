@@ -6,15 +6,13 @@
 
 img {
   border-radius: 5px;
+  height: 90px;
+  margin: 2% 1%;
 }
 
 #monkey {
   height: 350px;
-}
-
-#img2 {
-  height: 200px;
-  margin-top: 2%;
+  margin: 0%;
 }
 
 body {
